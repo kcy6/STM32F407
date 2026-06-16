@@ -1,0 +1,23 @@
+# 编译输出
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.d
+*.axf
+
+# IDE 文件
+Debug/
+Release/
+*.uvguix*
+*.uvoptx*
+*.scvd*
+*.uvgui.*
+
+# 临时文件
+*.log
+*.tmp
+*.bak
